@@ -2,7 +2,7 @@
     "name": "AddBlocker 1.0",
     "version": "1.0",
     "manifest_version": 2,
-    "author": "Kannav Sharma",
+    "author": "Raghav Sharma",
     "description": "One Stop Solution of Unwanted Advertisements/ distractions.",
     "icons": {
         "16": "icon.png",
